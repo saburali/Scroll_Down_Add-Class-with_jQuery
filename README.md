@@ -1,1 +1,1 @@
-# Scroll_Down_Add-Class-with_jQuery
+# Scroll Down Add-Class with jQuery
